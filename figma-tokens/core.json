@@ -1,4 +1,340 @@
 {
+  "12": {
+    "value": "12px",
+    "type": "fontSizes"
+  },
+  "14": {
+    "value": "14px",
+    "type": "fontSizes"
+  },
+  "16": {
+    "value": "16px",
+    "type": "fontSizes"
+  },
+  "18": {
+    "value": "18px",
+    "type": "fontSizes"
+  },
+  "20": {
+    "value": "20px",
+    "type": "fontSizes"
+  },
+  "24": {
+    "value": "24px",
+    "type": "fontSizes"
+  },
+  "30": {
+    "value": "30px",
+    "type": "fontSizes"
+  },
+  "36": {
+    "value": "36px",
+    "type": "fontSizes"
+  },
+  "48": {
+    "value": "48px",
+    "type": "fontSizes"
+  },
+  "60": {
+    "value": "60px",
+    "type": "fontSizes"
+  },
+  "72": {
+    "value": "72px",
+    "type": "fontSizes"
+  },
+  "96": {
+    "value": "96px",
+    "type": "fontSizes"
+  },
+  "128": {
+    "value": "128px",
+    "type": "fontSizes"
+  },
+  "sizing": {
+    "zero": {
+      "value": "0px",
+      "type": "sizing"
+    },
+    "px": {
+      "value": "1px",
+      "type": "sizing"
+    },
+    "zero-point-five": {
+      "value": "2px",
+      "type": "sizing"
+    },
+    "one": {
+      "value": "4px",
+      "type": "sizing"
+    },
+    "one-point-five": {
+      "value": "6px",
+      "type": "sizing"
+    },
+    "two": {
+      "value": "8px",
+      "type": "sizing"
+    },
+    "two-point-five": {
+      "value": "10px",
+      "type": "sizing"
+    },
+    "three": {
+      "value": "12px",
+      "type": "sizing"
+    },
+    "three-point-five": {
+      "value": "14px",
+      "type": "sizing"
+    },
+    "four": {
+      "value": "16px",
+      "type": "sizing"
+    },
+    "five": {
+      "value": "20px",
+      "type": "sizing"
+    },
+    "six": {
+      "value": "24px",
+      "type": "sizing"
+    },
+    "seven": {
+      "value": "28px",
+      "type": "sizing"
+    },
+    "eight": {
+      "value": "32px",
+      "type": "sizing"
+    },
+    "nine": {
+      "value": "36px",
+      "type": "sizing"
+    },
+    "ten": {
+      "value": "40px",
+      "type": "sizing"
+    },
+    "eleven": {
+      "value": "44px",
+      "type": "sizing"
+    },
+    "twelve": {
+      "value": "48px",
+      "type": "sizing"
+    },
+    "fourteen": {
+      "value": "56px",
+      "type": "sizing"
+    },
+    "sixteen": {
+      "value": "64px",
+      "type": "sizing"
+    },
+    "twenty": {
+      "value": "80px",
+      "type": "sizing"
+    },
+    "twenty-four": {
+      "value": "96px",
+      "type": "sizing"
+    },
+    "twenty-eight": {
+      "value": "112px",
+      "type": "sizing"
+    },
+    "thirty-two": {
+      "value": "128px",
+      "type": "sizing"
+    },
+    "thirty-six": {
+      "value": "144px",
+      "type": "sizing"
+    },
+    "forty": {
+      "value": "160px",
+      "type": "sizing"
+    },
+    "forty-four": {
+      "value": "176px",
+      "type": "sizing"
+    },
+    "forty-eight": {
+      "value": "192px",
+      "type": "sizing"
+    },
+    "fifty-two": {
+      "value": "208px",
+      "type": "sizing"
+    },
+    "fifty-six": {
+      "value": "224px",
+      "type": "sizing"
+    },
+    "sixty": {
+      "value": "240px",
+      "type": "sizing"
+    },
+    "sixty-four": {
+      "value": "256px",
+      "type": "sizing"
+    },
+    "seventy-two": {
+      "value": "288px",
+      "type": "sizing"
+    },
+    "eighty": {
+      "value": "320px",
+      "type": "sizing"
+    },
+    "ninety-six": {
+      "value": "384px",
+      "type": "sizing"
+    }
+  },
+  "spacing": {
+    "zero": {
+      "value": "0px",
+      "type": "spacing"
+    },
+    "px": {
+      "value": "1px",
+      "type": "spacing"
+    },
+    "zero-point-five": {
+      "value": "2px",
+      "type": "spacing"
+    },
+    "one": {
+      "value": "4px",
+      "type": "spacing"
+    },
+    "one-point-five": {
+      "value": "6px",
+      "type": "spacing"
+    },
+    "two": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "two-point-five": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "three": {
+      "value": "12px",
+      "type": "spacing"
+    },
+    "three-point-five": {
+      "value": "14px",
+      "type": "spacing"
+    },
+    "four": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "five": {
+      "value": "20px",
+      "type": "spacing"
+    },
+    "six": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "seven": {
+      "value": "28px",
+      "type": "spacing"
+    },
+    "eight": {
+      "value": "32px",
+      "type": "spacing"
+    },
+    "nine": {
+      "value": "36px",
+      "type": "spacing"
+    },
+    "ten": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "eleven": {
+      "value": "44px",
+      "type": "spacing"
+    },
+    "twelve": {
+      "value": "48px",
+      "type": "spacing"
+    },
+    "fourteen": {
+      "value": "56px",
+      "type": "spacing"
+    },
+    "sixteen": {
+      "value": "64px",
+      "type": "spacing"
+    },
+    "twenty": {
+      "value": "80px",
+      "type": "spacing"
+    },
+    "twenty-four": {
+      "value": "96px",
+      "type": "spacing"
+    },
+    "twenty-eight": {
+      "value": "112px",
+      "type": "spacing"
+    },
+    "thirty-two": {
+      "value": "128px",
+      "type": "spacing"
+    },
+    "thirty-six": {
+      "value": "144px",
+      "type": "spacing"
+    },
+    "forty": {
+      "value": "160px",
+      "type": "spacing"
+    },
+    "forty-four": {
+      "value": "176px",
+      "type": "spacing"
+    },
+    "forty-eight": {
+      "value": "192px",
+      "type": "spacing"
+    },
+    "fifty-two": {
+      "value": "208px",
+      "type": "spacing"
+    },
+    "fifty-six": {
+      "value": "224px",
+      "type": "spacing"
+    },
+    "sixty": {
+      "value": "240px",
+      "type": "spacing"
+    },
+    "sixty-four": {
+      "value": "256px",
+      "type": "spacing"
+    },
+    "seventy-two": {
+      "value": "288px",
+      "type": "spacing"
+    },
+    "eighty": {
+      "value": "320px",
+      "type": "spacing"
+    },
+    "ninety-six": {
+      "value": "384px",
+      "type": "spacing"
+    }
+  },
   "white": {
     "value": "#fff",
     "type": "color"
