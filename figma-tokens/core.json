@@ -1,0 +1,10 @@
+{
+  "white": {
+    "value": "#fff",
+    "type": "color"
+  },
+  "black": {
+    "value": "#000",
+    "type": "color"
+  }
+}
