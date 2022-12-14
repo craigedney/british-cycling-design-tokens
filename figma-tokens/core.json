@@ -1,55 +1,57 @@
 {
-  "12": {
-    "value": "12px",
-    "type": "fontSizes"
-  },
-  "14": {
-    "value": "14px",
-    "type": "fontSizes"
-  },
-  "16": {
-    "value": "16px",
-    "type": "fontSizes"
-  },
-  "18": {
-    "value": "18px",
-    "type": "fontSizes"
-  },
-  "20": {
-    "value": "20px",
-    "type": "fontSizes"
-  },
-  "24": {
-    "value": "24px",
-    "type": "fontSizes"
-  },
-  "30": {
-    "value": "30px",
-    "type": "fontSizes"
-  },
-  "36": {
-    "value": "36px",
-    "type": "fontSizes"
-  },
-  "48": {
-    "value": "48px",
-    "type": "fontSizes"
-  },
-  "60": {
-    "value": "60px",
-    "type": "fontSizes"
-  },
-  "72": {
-    "value": "72px",
-    "type": "fontSizes"
-  },
-  "96": {
-    "value": "96px",
-    "type": "fontSizes"
-  },
-  "128": {
-    "value": "128px",
-    "type": "fontSizes"
+  "fontSize": {
+    "12": {
+      "value": "12px",
+      "type": "fontSizes"
+    },
+    "14": {
+      "value": "14px",
+      "type": "fontSizes"
+    },
+    "16": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "18": {
+      "value": "18px",
+      "type": "fontSizes"
+    },
+    "20": {
+      "value": "20px",
+      "type": "fontSizes"
+    },
+    "24": {
+      "value": "24px",
+      "type": "fontSizes"
+    },
+    "30": {
+      "value": "30px",
+      "type": "fontSizes"
+    },
+    "36": {
+      "value": "36px",
+      "type": "fontSizes"
+    },
+    "48": {
+      "value": "48px",
+      "type": "fontSizes"
+    },
+    "60": {
+      "value": "60px",
+      "type": "fontSizes"
+    },
+    "72": {
+      "value": "72px",
+      "type": "fontSizes"
+    },
+    "96": {
+      "value": "96px",
+      "type": "fontSizes"
+    },
+    "128": {
+      "value": "128px",
+      "type": "fontSizes"
+    }
   },
   "sizing": {
     "zero": {
